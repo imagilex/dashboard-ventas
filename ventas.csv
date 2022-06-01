@@ -1,0 +1,370 @@
+Folio,Fecha de orden,Num. cliente,Nombre cliente,Ciudad,Estado,Vendedor,Region,Fecha de embarque,Empresa fletera,Forma de pago,Nombre del producto,Categoría,Precio unitario,Cantidad,Ingresos,Tarifa de envío
+1001,2018-01-27,27,Empresa AA,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,2018-01-29,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,49,9604,931.588
+1002,2018-01-27,27,Empresa AA,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,2018-01-29,Empresa de embarque B,Cheque,Ciruelas secas,Frutas secas,49,47,2303,232.603
+1003,2018-01-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-01-06,Empresa de embarque A,Tarjeta de crédito,Peras secas,Frutas secas,420,69,28980,2782.08
+1004,2018-01-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-01-06,Empresa de embarque A,Tarjeta de crédito,Manzanas secas,Frutas secas,742,89,66038,6273.61
+1005,2018-01-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-01-06,Empresa de embarque A,Tarjeta de crédito,Ciruelas secas,Frutas secas,49,11,539,52.283
+1006,2018-01-12,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,2018-01-14,Empresa de embarque B,Tarjeta de crédito,Té chai,Bebidas,252,81,20412,1979.964
+1007,2018-01-12,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,2018-01-14,Empresa de embarque B,Tarjeta de crédito,Café,Bebidas,644,44,28336,2776.928
+1008,2018-01-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-01-10,Empresa de embarque C,Tarjeta de crédito,Galletas de chocolate,Productos horneados,128.8,38,4894.4,504.1232
+1009,2018-01-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-01-06,Empresa de embarque C,Cheque,Galletas de chocolate,Productos horneados,128.8,88,11334.4,1110.7712
+1010,2018-01-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-01-31,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,94,16779,1711.458
+1011,2018-01-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-01-05,Empresa de embarque B,Efectivo,Almejas,Sopas,135.1,91,12294.1,1290.8805
+1012,2018-01-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-01-08,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,560,32,17920,1863.68
+1013,2018-01-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-01-30,Empresa de embarque C,Cheque,Café,Bebidas,644,55,35420,3542
+1014,2018-01-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-01-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,47,8389.5,864.1185
+1015,2018-01-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-01-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,90,3767.4,388.0422
+1016,2018-01-07,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,24,15456,1545.6
+1017,2018-01-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-01-12,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,350,34,11900,1130.5
+1018,2018-01-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-01-12,Empresa de embarque A,,Condimento cajún,Condimentos,308,17,5236,502.656
+1019,2018-01-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-01-12,Empresa de embarque A,,Galletas de chocolate,Productos horneados,128.8,44,5667.2,589.3888
+1020,2018-01-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,49,81,3969,384.993
+1021,2018-01-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,41.86,49,2051.14,211.26742
+1022,2018-01-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,252,42,10584,1058.4
+1023,2018-01-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,58,37352,3772.552
+1024,2018-01-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,41.86,67,2804.62,280.462
+1025,2018-01-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-01-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,100,13510,1310.47
+1026,2018-01-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-01-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,63,16228.8,1606.6512
+1027,2018-01-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-01-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273,57,15561,1540.539
+1028,2018-01-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-01-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.2,81,39463.2,4143.636
+1029,2018-01-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-01-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196,71,13916,1335.936
+1030,2018-02-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-02-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560,32,17920,1809.92
+1031,2018-02-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-02-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140,63,8820,917.28
+1032,2018-02-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-02-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560,30,16800,1680
+1033,2018-02-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-02-08,Empresa de embarque B,Tarjeta de crédito,,Tarifa de envío,,,,602
+1034,2018-02-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-03-02,Empresa de embarque C,Cheque,,Tarifa de envío,,,,434
+1035,2018-02-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-02-10,Empresa de embarque C,Cheque,,Tarifa de envío,,,,644
+1036,2018-02-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-02-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140,47,6580,684.32
+1038,2018-02-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,49,49,2401,230.496
+1039,2018-02-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,560,72,40320,3991.68
+1040,2018-02-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,257.6,13,3348.8,331.5312
+1041,2018-02-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-03-02,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644,32,20608,2081.408
+1042,2018-02-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-02-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,27,3647.7,346.5315
+1043,2018-02-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-02-08,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,178.5,71,12673.5,1280.0235
+1044,2018-02-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-02-10,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,13,2320.5,220.4475
+1045,2018-02-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-02-27,Empresa de embarque A,Efectivo,Condimento cajún,Condimentos,308,98,30184,2867.48
+1046,2018-02-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-02-28,Empresa de embarque C,Tarjeta de crédito,Jalea de fresa,Mermeladas y jaleas,350,21,7350,749.7
+1047,2018-03-01,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-03-03,Empresa de embarque B,Cheque,Cóctel de frutas,Frutas y vegetales,546,26,14196,1490.58
+1048,2018-02-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-02-08,Empresa de embarque C,Cheque,Peras secas,Frutas secas,420,96,40320,4152.96
+1049,2018-02-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-02-08,Empresa de embarque C,Cheque,Manzanas secas,Frutas secas,742,16,11872,1234.688
+1050,2018-02-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,,,,Pasta penne,Pasta,532,96,51072,4851.84
+1051,2018-02-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,,,,Té verde,Bebidas,41.86,75,3139.5,323.3685
+1052,2018-03-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-03-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273,55,15015,1516.515
+1053,2018-03-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-03-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.2,11,5359.2,514.4832
+1054,2018-03-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-03-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196,53,10388,1007.636
+1055,2018-03-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-03-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560,85,47600,4998
+1056,2018-03-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-03-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.8,97,12493.6,1274.3472
+1057,2018-03-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-03-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140,46,6440,650.44
+1058,2018-03-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-03-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.9,97,28993.3,2754.3635
+1059,2018-03-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-03-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,97,13104.7,1336.6794
+1060,2018-03-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-03-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,65,16744,1724.632
+1061,2018-03-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-03-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,72,14112,1411.2
+1062,2018-03-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-03-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,16,2856,282.744
+1064,2018-03-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-03-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134,77,87318,8993.754
+1065,2018-03-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-03-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98,37,3626,344.47
+1067,2018-03-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-03-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.2,63,30693.6,3038.6664
+1070,2018-03-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-03-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140,48,6720,672
+1071,2018-03-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-03-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560,71,39760,4135.04
+1075,2018-03-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-03-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140,55,7700,770
+1077,2018-03-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,49,21,1029,102.9
+1078,2018-03-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,560,67,37520,3789.52
+1079,2018-03-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,257.6,75,19320,1932
+1080,2018-03-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-03-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644,17,10948,1127.644
+1081,2018-04-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-04-06,Empresa de embarque A,Tarjeta de crédito,Ciruelas secas,Frutas secas,49,48,2352,228.144
+1082,2018-04-12,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,2018-04-14,Empresa de embarque B,Tarjeta de crédito,Té chai,Bebidas,252,74,18648,1920.744
+1083,2018-04-12,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,2018-04-14,Empresa de embarque B,Tarjeta de crédito,Café,Bebidas,644,96,61824,5996.928
+1084,2018-04-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-04-10,Empresa de embarque C,Tarjeta de crédito,Galletas de chocolate,Productos horneados,128.8,12,1545.6,159.1968
+1085,2018-04-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-04-06,Empresa de embarque C,Cheque,Galletas de chocolate,Productos horneados,128.8,62,7985.6,822.5168
+1086,2018-04-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-05-01,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,35,6247.5,643.4925
+1087,2018-04-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-04-05,Empresa de embarque B,Efectivo,Almejas,Sopas,135.1,95,12834.5,1283.45
+1088,2018-04-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-04-08,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,560,17,9520,961.52
+1089,2018-04-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-04-30,Empresa de embarque C,Cheque,Café,Bebidas,644,96,61824,6491.52
+1090,2018-04-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-04-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,83,14815.5,1437.1035
+1091,2018-04-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-04-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,88,3683.68,364.68432
+1092,2018-04-07,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,59,37996,3989.58
+1093,2018-04-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-04-12,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,350,27,9450,963.9
+1094,2018-04-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-04-12,Empresa de embarque A,,Condimento cajún,Condimentos,308,37,11396,1196.58
+1095,2018-04-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-04-12,Empresa de embarque A,,Galletas de chocolate,Productos horneados,128.8,75,9660,966
+1096,2018-04-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,49,71,3479,337.463
+1097,2018-04-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,41.86,88,3683.68,364.68432
+1098,2018-04-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,252,55,13860,1358.28
+1099,2018-05-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-05-31,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,14,2499,237.405
+1100,2018-05-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-05-05,Empresa de embarque B,Efectivo,Almejas,Sopas,135.1,43,5809.3,592.5486
+1101,2018-05-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-05-08,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,560,63,35280,3563.28
+1102,2018-05-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-05-30,Empresa de embarque C,Cheque,Café,Bebidas,644,36,23184,2318.4
+1103,2018-05-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-05-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,41,7318.5,761.124
+1104,2018-05-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-05-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,35,1465.1,143.5798
+1105,2018-05-07,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,31,19964,1916.544
+1106,2018-05-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-05-12,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,350,52,18200,1729
+1107,2018-05-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-05-12,Empresa de embarque A,,Condimento cajún,Condimentos,308,30,9240,942.48
+1108,2018-05-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-05-12,Empresa de embarque A,,Galletas de chocolate,Productos horneados,128.8,41,5280.8,538.6416
+1109,2018-05-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,49,44,2156,213.444
+1110,2018-05-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,41.86,77,3223.22,322.322
+1111,2018-05-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,252,29,7308,738.108
+1112,2018-05-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,77,49588,5157.152
+1113,2018-05-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,41.86,73,3055.78,305.578
+1114,2018-05-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-05-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,74,9997.4,949.753
+1115,2018-05-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-05-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,25,6440,650.44
+1116,2018-05-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-05-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273,82,22386,2149.056
+1117,2018-05-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-05-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.2,37,18026.4,1856.7192
+1118,2018-05-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-05-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196,84,16464,1580.544
+1119,2018-05-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-05-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560,73,40880,3965.36
+1120,2018-05-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-05-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.8,51,6568.8,624.036
+1121,2018-05-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-05-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140,66,9240,960.96
+1122,2018-05-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-05-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.9,36,10760.4,1043.7588
+1123,2018-05-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-05-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,87,11753.7,1222.3848
+1124,2018-05-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-05-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,64,16486.4,1615.6672
+1125,2018-05-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-05-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,21,4116,432.18
+1126,2018-05-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-05-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,19,3391.5,342.5415
+1128,2018-05-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-05-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134,23,26082,2738.61
+1129,2018-05-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-05-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98,72,7056,726.768
+1131,2018-05-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-05-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.2,22,10718.4,1050.4032
+1134,2018-05-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-05-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140,82,11480,1193.92
+1135,2018-05-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-05-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560,98,54880,5762.4
+1138,2018-06-07,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,71,45724,4343.78
+1139,2018-06-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-06-12,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,350,40,14000,1470
+1140,2018-06-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-06-12,Empresa de embarque A,,Condimento cajún,Condimentos,308,80,24640,2414.72
+1141,2018-06-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-06-12,Empresa de embarque A,,Galletas de chocolate,Productos horneados,128.8,38,4894.4,464.968
+1142,2018-06-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,49,28,1372,144.06
+1143,2018-06-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,41.86,60,2511.6,246.1368
+1144,2018-06-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,252,33,8316,814.968
+1145,2018-06-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,22,14168,1416.8
+1146,2018-06-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,41.86,51,2134.86,209.21628
+1147,2018-06-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-06-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,60,8106,802.494
+1148,2018-06-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-06-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,98,25244.8,2574.9696
+1149,2018-06-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-06-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273,27,7371,714.987
+1150,2018-06-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-06-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.2,88,42873.6,4244.4864
+1151,2018-06-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-06-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196,65,12740,1337.7
+1152,2018-06-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-06-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560,38,21280,2085.44
+1153,2018-06-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-06-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.8,80,10304,989.184
+1154,2018-06-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-06-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140,49,6860,658.56
+1155,2018-06-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-06-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.9,90,26901,2609.397
+1156,2018-06-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-06-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,60,8106,834.918
+1157,2018-06-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-06-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,39,10046.4,1004.64
+1158,2018-06-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-07-01,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,79,15484,1594.852
+1159,2018-06-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-06-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,44,7854,801.108
+1161,2018-06-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-06-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134,98,111132,10779.804
+1162,2018-06-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-06-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98,61,5978,591.822
+1164,2018-06-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-06-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.2,30,14616,1534.68
+1167,2018-06-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-06-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140,24,3360,352.8
+1168,2018-06-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-06-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560,28,15680,1536.64
+1172,2018-06-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-06-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140,74,10360,1004.92
+1174,2018-06-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,49,90,4410,423.36
+1175,2018-06-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,560,27,15120,1557.36
+1176,2018-06-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,257.6,71,18289.6,1920.408
+1177,2018-06-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-06-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644,74,47656,4765.6
+1178,2018-06-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-06-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,76,10267.6,1016.4924
+1179,2018-06-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-06-08,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,178.5,96,17136,1730.736
+1180,2018-06-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-06-10,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,92,16422,1625.778
+1181,2018-06-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-06-27,Empresa de embarque A,Efectivo,Condimento cajún,Condimentos,308,93,28644,2807.112
+1182,2018-06-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-06-28,Empresa de embarque C,Tarjeta de crédito,Jalea de fresa,Mermeladas y jaleas,350,18,6300,598.5
+1183,2018-06-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-07-01,Empresa de embarque B,Cheque,Cóctel de frutas,Frutas y vegetales,546,98,53508,5564.832
+1184,2018-06-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-06-08,Empresa de embarque C,Cheque,Peras secas,Frutas secas,420,46,19320,1893.36
+1185,2018-06-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-06-08,Empresa de embarque C,Cheque,Manzanas secas,Frutas secas,742,14,10388,1038.8
+1186,2018-06-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,,,,Pasta penne,Pasta,532,85,45220,4476.78
+1187,2018-06-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,,,,Té verde,Bebidas,41.86,88,3683.68,357.31696
+1188,2018-07-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,41.86,81,3390.66,335.67534
+1189,2018-07-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-07-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,33,4458.3,423.5385
+1190,2018-07-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-07-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,47,12107.2,1271.256
+1191,2018-07-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-07-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273,61,16653,1731.912
+1192,2018-07-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-07-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.2,27,13154.4,1341.7488
+1193,2018-07-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-07-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196,84,16464,1662.864
+1194,2018-07-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-07-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560,91,50960,5045.04
+1195,2018-07-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-07-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.8,36,4636.8,482.2272
+1196,2018-07-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-07-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140,34,4760,480.76
+1197,2018-07-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-07-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.9,81,24210.9,2493.7227
+1198,2018-07-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-07-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,25,3377.5,327.6175
+1199,2018-07-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-07-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,12,3091.2,309.12
+1200,2018-07-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-07-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,23,4508,432.768
+1201,2018-07-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-07-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,76,13566,1370.166
+1203,2018-07-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-07-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134,55,62370,6237
+1204,2018-07-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-07-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98,19,1862,180.614
+1206,2018-07-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-07-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.2,27,13154.4,1249.668
+1209,2018-07-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-07-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140,99,13860,1330.56
+1210,2018-07-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-07-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560,10,5600,560
+1214,2018-07-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-07-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140,80,11200,1086.4
+1216,2018-07-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,49,27,1323,127.008
+1217,2018-07-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,560,97,54320,5323.36
+1218,2018-07-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,257.6,42,10819.2,1125.1968
+1219,2018-07-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-07-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644,24,15456,1483.776
+1220,2018-07-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-07-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,90,12159,1167.264
+1221,2018-07-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-07-08,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,178.5,28,4998,499.8
+1222,2018-08-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-08-30,Empresa de embarque C,Cheque,Café,Bebidas,644,28,18032,1875.328
+1223,2018-08-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-08-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,57,10174.5,976.752
+1224,2018-08-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-08-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,23,962.78,93.38966
+1225,2018-08-07,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,86,55384,5593.784
+1226,2018-08-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-08-12,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,350,47,16450,1628.55
+1227,2018-08-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-08-12,Empresa de embarque A,,Condimento cajún,Condimentos,308,97,29876,3107.104
+1228,2018-08-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-08-12,Empresa de embarque A,,Galletas de chocolate,Productos horneados,128.8,96,12364.8,1211.7504
+1229,2018-08-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,49,31,1519,151.9
+1230,2018-08-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,41.86,52,2176.72,224.20216
+1231,2018-08-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,252,91,22932,2224.404
+1232,2018-08-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,14,9016,892.584
+1233,2018-08-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,41.86,44,1841.84,186.02584
+1234,2018-08-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-08-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,97,13104.7,1336.6794
+1235,2018-08-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-08-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,80,20608,2102.016
+1236,2018-08-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-08-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273,66,18018,1855.854
+1237,2018-08-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-08-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.2,32,15590.4,1559.04
+1238,2018-08-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-08-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196,52,10192,1019.2
+1239,2018-08-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-08-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560,78,43680,4455.36
+1240,2018-08-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-08-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.8,54,6955.2,688.5648
+1241,2018-08-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-08-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140,55,7700,731.5
+1242,2018-08-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-08-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.9,60,17934,1811.334
+1243,2018-08-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-08-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,19,2566.9,243.8555
+1244,2018-08-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-08-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,66,17001.6,1751.1648
+1245,2018-08-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-08-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,42,8232,831.432
+1246,2018-08-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-08-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,72,12852,1246.644
+1248,2018-08-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-08-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134,32,36288,3519.936
+1249,2018-08-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-08-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98,76,7448,752.248
+1250,2018-09-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-09-12,Empresa de embarque A,,Galletas de chocolate,Productos horneados,128.8,83,10690.4,1047.6592
+1251,2018-09-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,49,91,4459,436.982
+1252,2018-09-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,41.86,64,2679.04,273.26208
+1253,2018-09-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,252,58,14616,1446.984
+1254,2018-09-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,97,62468,6496.672
+1255,2018-09-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,41.86,14,586.04,60.94816
+1256,2018-09-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-09-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,68,9186.8,900.3064
+1257,2018-09-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-09-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,32,8243.2,824.32
+1258,2018-09-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-09-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273,48,13104,1323.504
+1259,2018-09-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-09-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.2,57,27770.4,2721.4992
+1260,2018-09-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-09-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196,67,13132,1378.86
+1261,2018-09-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-09-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560,48,26880,2634.24
+1262,2018-09-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-09-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.8,77,9917.6,1011.5952
+1263,2018-09-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-09-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140,94,13160,1368.64
+1264,2018-09-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-09-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.9,54,16140.6,1694.763
+1265,2018-09-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-09-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,43,5809.3,563.5021
+1266,2018-09-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-09-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,71,18289.6,1883.8288
+1267,2018-09-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-10-01,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,50,9800,940.8
+1268,2018-09-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-09-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,96,17136,1679.328
+1270,2018-09-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-09-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134,54,61236,6123.6
+1271,2018-09-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-09-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98,39,3822,382.2
+1273,2018-09-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-09-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.2,63,30693.6,3222.828
+1276,2018-09-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-09-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140,71,9940,1023.82
+1277,2018-09-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-09-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560,88,49280,5125.12
+1281,2018-09-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-09-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140,59,8260,834.26
+1282,2018-10-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-10-08,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,560,94,52640,5264
+1283,2018-10-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-10-30,Empresa de embarque C,Cheque,Café,Bebidas,644,86,55384,5316.864
+1284,2018-10-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-10-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,61,10888.5,1099.7385
+1285,2018-10-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-10-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,32,1339.52,136.63104
+1286,2018-10-07,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,62,39928,4072.656
+1287,2018-10-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-10-12,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,350,60,21000,2163
+1288,2018-10-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-10-12,Empresa de embarque A,,Condimento cajún,Condimentos,308,51,15708,1539.384
+1289,2018-10-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-10-12,Empresa de embarque A,,Galletas de chocolate,Productos horneados,128.8,49,6311.2,624.8088
+1290,2018-10-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,49,20,980,97.02
+1291,2018-10-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,41.86,49,2051.14,205.114
+1292,2018-10-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,252,22,5544,532.224
+1293,2018-10-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,73,47012,4748.212
+1294,2018-10-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,41.86,85,3558.1,345.1357
+1295,2018-10-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-10-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,44,5944.4,618.2176
+1296,2018-10-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-10-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,24,6182.4,599.6928
+1297,2018-10-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-10-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273,64,17472,1677.312
+1298,2018-10-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-10-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.2,70,34104,3444.504
+1299,2018-10-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-10-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196,98,19208,1940.008
+1300,2018-10-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-10-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560,48,26880,2634.24
+1301,2018-10-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-10-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.8,100,12880,1275.12
+1302,2018-10-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-10-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140,90,12600,1222.2
+1303,2018-10-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-10-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.9,49,14646.1,1435.3178
+1304,2018-10-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-10-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,71,9592.1,920.8416
+1305,2018-10-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-10-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,10,2576,267.904
+1306,2018-10-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-10-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,78,15288,1574.664
+1307,2018-10-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-10-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,44,7854,753.984
+1309,2018-10-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-10-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134,82,92988,9763.74
+1310,2018-10-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-10-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98,29,2842,284.2
+1312,2018-10-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-10-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.2,93,45309.6,4395.0312
+1315,2018-10-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-10-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140,11,1540,160.16
+1316,2018-10-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-10-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560,91,50960,5096
+1320,2018-10-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-10-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140,12,1680,173.04
+1322,2018-10-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,49,78,3822,382.2
+1323,2018-10-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,560,60,33600,3192
+1324,2018-10-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,257.6,23,5924.8,610.2544
+1325,2018-10-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-10-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644,34,21896,2211.496
+1326,2018-10-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-10-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,89,12023.9,1214.4139
+1327,2018-10-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-10-08,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,178.5,82,14637,1449.063
+1328,2018-10-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-10-10,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,43,7675.5,736.848
+1329,2018-11-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-11-12,Empresa de embarque A,,Condimento cajún,Condimentos,308,96,29568,3104.64
+1330,2018-11-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-11-12,Empresa de embarque A,,Galletas de chocolate,Productos horneados,128.8,34,4379.2,437.92
+1331,2018-11-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,49,42,2058,211.974
+1332,2018-11-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,41.86,100,4186,426.972
+1333,2018-11-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,252,42,10584,1068.984
+1334,2018-11-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,16,10304,989.184
+1335,2018-11-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,41.86,22,920.92,89.32924
+1336,2018-11-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-11-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,46,6214.6,640.1038
+1337,2018-11-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-11-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,100,25760,2576
+1338,2018-11-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-11-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273,87,23751,2446.353
+1339,2018-11-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-11-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.2,58,28257.6,2882.2752
+1340,2018-11-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-11-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196,85,16660,1682.66
+1341,2018-11-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-11-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560,28,15680,1552.32
+1342,2018-11-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-11-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.8,19,2447.2,239.8256
+1343,2018-11-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-11-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140,99,13860,1441.44
+1344,2018-11-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-11-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.9,69,20624.1,2144.9064
+1345,2018-11-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-11-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,37,4998.7,474.8765
+1346,2018-11-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-11-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,64,16486.4,1665.1264
+1347,2018-11-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-12-01,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,38,7448,774.592
+1348,2018-11-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-11-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,15,2677.5,259.7175
+1350,2018-11-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-11-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134,52,58968,5778.864
+1351,2018-11-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-11-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98,37,3626,355.348
+1353,2018-11-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-11-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.2,24,11692.8,1122.5088
+1356,2018-11-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-11-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140,36,5040,519.12
+1357,2018-11-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-11-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560,24,13440,1344
+1361,2018-11-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-11-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140,20,2800,280
+1363,2018-11-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,49,11,539,52.283
+1364,2018-11-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,560,78,43680,4193.28
+1365,2018-11-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,257.6,76,19577.6,2016.4928
+1366,2018-11-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-11-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644,57,36708,3817.632
+1367,2018-11-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-11-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,14,1891.4,181.5744
+1368,2018-12-27,27,Empresa AA,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,2018-12-29,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,14,2744,277.144
+1369,2018-12-27,27,Empresa AA,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,2018-12-29,Empresa de embarque B,Cheque,Ciruelas secas,Frutas secas,49,70,3430,353.29
+1370,2018-12-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-12-06,Empresa de embarque A,Tarjeta de crédito,Peras secas,Frutas secas,420,100,42000,4074
+1371,2018-12-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-12-06,Empresa de embarque A,Tarjeta de crédito,Manzanas secas,Frutas secas,742,27,20034,2003.4
+1372,2018-12-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-12-06,Empresa de embarque A,Tarjeta de crédito,Ciruelas secas,Frutas secas,49,70,3430,336.14
+1373,2018-12-12,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,2018-12-14,Empresa de embarque B,Tarjeta de crédito,Té chai,Bebidas,252,57,14364,1436.4
+1374,2018-12-12,12,Empresa L,Mazatlán,Sinaloa,Mayra Aguilar Sepúlveda,Occidente,2018-12-14,Empresa de embarque B,Tarjeta de crédito,Café,Bebidas,644,83,53452,5238.296
+1375,2018-12-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-12-10,Empresa de embarque C,Tarjeta de crédito,Galletas de chocolate,Productos horneados,128.8,76,9788.8,939.7248
+1376,2018-12-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-12-06,Empresa de embarque C,Cheque,Galletas de chocolate,Productos horneados,128.8,80,10304,1020.096
+1377,2018-12-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-12-31,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,47,8389.5,830.5605
+1378,2018-12-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-12-05,Empresa de embarque B,Efectivo,Almejas,Sopas,135.1,96,12969.6,1322.8992
+1379,2018-12-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-12-08,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,560,32,17920,1881.6
+1380,2018-12-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-12-30,Empresa de embarque C,Cheque,Café,Bebidas,644,16,10304,1030.4
+1381,2018-12-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-12-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,41,7318.5,717.213
+1382,2018-12-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-12-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,41,1716.26,180.2073
+1383,2018-12-07,7,Empresa G,Chihuahua,Chihuahua,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,41,26404,2719.612
+1384,2018-12-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-12-12,Empresa de embarque A,,Jalea de fresa,Mermeladas y jaleas,350,94,32900,3290
+1385,2018-12-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-12-12,Empresa de embarque A,,Condimento cajún,Condimentos,308,20,6160,646.8
+1386,2018-12-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-12-12,Empresa de embarque A,,Galletas de chocolate,Productos horneados,128.8,13,1674.4,174.1376
+1387,2018-12-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Ciruelas secas,Frutas secas,49,74,3626,377.104
+1388,2018-12-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Té verde,Bebidas,41.86,53,2218.58,224.07658
+1389,2018-12-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té chai,Bebidas,252,99,24948,2444.904
+1390,2018-12-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Café,Bebidas,644,89,57316,5445.02
+1391,2018-12-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,,,Té verde,Bebidas,41.86,64,2679.04,273.26208
+1392,2018-12-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-12-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,98,13239.8,1350.4596
+1393,2018-12-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-12-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,86,22153.6,2171.0528
+1394,2018-12-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-12-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273,20,5460,573.3
+1395,2018-12-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-12-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.2,69,33616.8,3361.68
+1396,2018-12-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-12-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196,68,13328,1279.488
+1397,2018-12-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-12-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560,52,29120,2853.76
+1398,2018-12-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-12-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.8,40,5152,540.96
+1399,2018-12-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-12-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140,100,14000,1372
+1400,2018-12-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-12-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.9,88,26303.2,2577.7136
+1401,2018-12-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-12-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,46,6214.6,596.6016
+1402,2018-12-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-12-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,93,23956.8,2347.7664
+1403,2018-12-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-12-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196,96,18816,1975.68
+1404,2018-12-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-12-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,12,2142,224.91
+1406,2018-12-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-12-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134,38,43092,4093.74
+1407,2018-12-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,2018-12-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98,42,4116,407.484
+1409,2018-12-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-12-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.2,100,48720,4823.28
+1412,2018-12-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-12-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140,89,12460,1221.08
+1413,2018-12-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,2018-12-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560,12,6720,651.84
+1417,2018-12-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-12-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140,97,13580,1412.32
+1419,2018-12-10,10,Empresa J,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,,Empresa de embarque A,,Ciruelas secas,Frutas secas,49,53,2597,246.715
+1420,2018-12-11,11,Empresa K,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,,Empresa de embarque C,,Salsa curry,Salsas,560,61,34160,3484.32
+1421,2018-12-01,1,Empresa A,Torreón,Coahuila,Nancy Gil de la Peña,Norte,,Empresa de embarque C,,Carne de cangrejo,Carne enlatada,257.6,45,11592,1136.016
+1422,2018-12-28,28,Empresa BB,Toluca,México,Ana del Valle Hinojosa,Centro,2018-12-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644,43,27692,2769.2
+1423,2018-12-09,9,Empresa I,Guadalajara,Jalisco,Robert Zárate Carrillo,Occidente,2018-12-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,18,2431.8,231.021
+1424,2018-12-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-12-08,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,178.5,41,7318.5,709.8945
+1425,2018-12-08,8,Empresa H,Monterrey,Nuevo León,Nancy Gil de la Peña,Norte,2018-12-10,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,19,3391.5,335.7585
+1426,2018-12-25,25,Empresa Y,León,Guanajuato,Laura Gutiérrez Saenz,Bajío,2018-12-27,Empresa de embarque A,Efectivo,Condimento cajún,Condimentos,308,65,20020,1941.94
+1427,2018-12-26,26,Empresa Z,Ciudad de México,Ciudad de México,Ana del Valle Hinojosa,Centro,2018-12-28,Empresa de embarque C,Tarjeta de crédito,Jalea de fresa,Mermeladas y jaleas,350,13,4550,450.45
+1428,2018-12-29,29,Empresa CC,Puerto Vallarta,Jalisco,José de Jesús Morales,Occidente,2018-12-31,Empresa de embarque B,Cheque,Cóctel de frutas,Frutas y vegetales,546,54,29484,3007.368
+1429,2018-12-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-12-08,Empresa de embarque C,Cheque,Peras secas,Frutas secas,420,33,13860,1330.56
+1430,2018-12-06,6,Empresa F,Tijuana,Baja California,Luis Miguel Valdés Garza,Norte,2018-12-08,Empresa de embarque C,Cheque,Manzanas secas,Frutas secas,742,34,25228,2598.484
+1431,2018-12-04,4,Empresa D,Querétaro,Querétaro,Andrés González Rico,Bajío,,,,Pasta penne,Pasta,532,59,31388,3170.188
+1432,2018-12-03,3,Empresa C,Acapulco,Guerrero,Mayra Aguilar Sepúlveda,Occidente,,,,Té verde,Bebidas,41.86,24,1004.64,99.45936
