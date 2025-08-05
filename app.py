@@ -2,7 +2,7 @@ import dash
 import json
 import plotly.express as px
 import plotly.graph_objects as go
-import pandas as pd 
+import pandas as pd
 import numpy as np
 from dash.dependencies import Input, Output
 from dash import dcc, html
@@ -39,14 +39,14 @@ if __name__ == ('__main__'):
                     external_stylesheets=external_stylesheets,
                     external_scripts=external_scripts,
                     server=server,
-                    title="Daschboard - Ventas") 
+                    title="Daschboard - Ventas")
 else:
     app = dash.Dash(__name__,
                     external_stylesheets=external_stylesheets,
                     external_scripts=external_scripts,
                     server=server,
                     requests_pathname_prefix='/dashboard-ventas/',
-                    title="Daschboard - Ventas") 
+                    title="Daschboard - Ventas")
 
 app.layout = html.Div([
     html.H1("Dashboard de Compras", className="text-center"),
@@ -110,23 +110,23 @@ def updateGraphVentasMensuales(vendedor, categoria, region, color):
     dfg = filtraDF(df.copy(), vendedor, categoria, region)
     if color is None:
         figVM = px.histogram(
-            dfg, x='Fecha de orden', y='Ingresos', nbins=12, 
+            dfg, x='Fecha de orden', y='Ingresos', nbins=12,
             title="Ventas Totales por Mes", text_auto=True)
         figVV = px.histogram(
-            dfg, y='Vendedor', x='Ingresos', 
+            dfg, y='Vendedor', x='Ingresos',
             title="Ventas por Vendedor", text_auto=True)
         figVC = px.histogram(
-            dfg, y='Categoría', x='Ingresos', 
+            dfg, y='Categoría', x='Ingresos',
             title="Ventas por Categoria de Producto", text_auto=True)
     else:
         figVM = px.histogram(
-            dfg, x='Fecha de orden', y='Ingresos', nbins=12, 
+            dfg, x='Fecha de orden', y='Ingresos', nbins=12,
             title="Ventas Totales por Mes", text_auto=True, color=color)
         figVV = px.histogram(
-            dfg, y='Vendedor', x='Ingresos', 
+            dfg, y='Vendedor', x='Ingresos',
             title="Ventas por Vendedor", text_auto=True, color=color)
         figVC = px.histogram(
-            dfg, y='Categoría', x='Ingresos', 
+            dfg, y='Categoría', x='Ingresos',
             title="Ventas por Categoria de Producto", text_auto=True, color=color)
     figVM.update_layout(bargap=0.2)
     return figVM, figVV, figVC
@@ -168,4 +168,4 @@ def filtraDF(dfg, vendedor, categoria, region):
     return dfg
 
 if __name__ == ('__main__'):
-    app.run_server(debug=True, port=8055)
+    app.run(debug=True, port=8055)
